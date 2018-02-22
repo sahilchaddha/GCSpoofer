@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/sahilchaddha/GCSpoofer/issues"
   },
-  "homepage": "https://github.com/sahilchaddha/GCSpoofer#readme"
+  "homepage": "https://github.com/sahilchaddha/GCSpoofer#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "moment": "^2.20.1"
+  }
 }
