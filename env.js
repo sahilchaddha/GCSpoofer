@@ -1,7 +1,7 @@
 var environment = {
     username: "sahilchaddha",
-    password: "abcd",
     repoName: "testRepo",
+    repoLocalSrc: "/Users/sahilchaddha/Sahil/Projects/Github/testRepo",
     maxIntensity: 50,
     minIntensity: 5
 }

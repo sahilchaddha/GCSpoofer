@@ -23,6 +23,7 @@
   "homepage": "https://github.com/sahilchaddha/GCSpoofer#readme",
   "dependencies": {
     "minimist": "^1.2.0",
-    "moment": "^2.20.1"
+    "moment": "^2.20.1",
+    "sleep": "^5.1.1"
   }
 }
