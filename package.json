@@ -1,0 +1,24 @@
+{
+  "name": "gcspoofer",
+  "version": "1.0.0",
+  "description": "Github Contributions Spoofer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilchaddha/GCSpoofer.git"
+  },
+  "keywords": [
+    "Github",
+    "Contributions",
+    "Spoofer"
+  ],
+  "author": "Sahil Chaddha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilchaddha/GCSpoofer/issues"
+  },
+  "homepage": "https://github.com/sahilchaddha/GCSpoofer#readme"
+}
