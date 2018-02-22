@@ -35,10 +35,8 @@ function fillLastYearCommits() {
             console.log(' *** PUSHING ***')
             setTimeout(push, 3000);
         } else {
-            setTimeout(function(){
                 console.log('*****************************Committing '+totalDates.length+"/"+totalCount+"******************************")
                 commit(totalDates[totalDates.length - 1])
-            }, 3000);
             totalDates.pop()
         }
     }
